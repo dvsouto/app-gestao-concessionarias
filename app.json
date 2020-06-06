@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "App Gestão Mobile",
+    "description": "Aplicativo de gestão de concessionárias",
+    "sdkVersion": "35.0.0",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "privacy": "unlisted",
+    "orientation": "portrait",
+    "primaryColor": "#3498DB",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#dddddd"
+    },
+    "slug": "app-gestao-mobile"
+  }
+}
